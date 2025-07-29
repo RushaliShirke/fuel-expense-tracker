@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191371236874",
+    "project_id": "fuel-mileage-tracker-4ffad",
+    "storage_bucket": "fuel-mileage-tracker-4ffad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191371236874:android:a14b7061a703446773f1f3",
+        "android_client_info": {
+          "package_name": "com.example.fuel_mileage_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWMic7YXsx9EjtQ39Xi3tJqks5Ir_hcac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
