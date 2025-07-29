@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fuel_mileage_tracker
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# fuel-expense-tracker
+>>>>>>> d62d8139ee7393e2710b02330573a6af21c4296f
